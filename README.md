@@ -11,5 +11,5 @@ https://kivy.org/doc/stable/gettingstarted/installation.html
 pip install git+https://github.com/pybluez/pybluez.git#egg=pybluez
 
 <b>PyESCPOS</b> <br> 
-https://pypi.org/project/PyESCPOS/
+https://pypi.org/project/PyESCPOS/<br>
 pip install pyescpos[bluetooth]
