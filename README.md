@@ -1,15 +1,15 @@
 # RCTicketPrinter
 Python code to print Repair Cafe Tickets
 
-Requires
-Python 3.11
+## Requires
+#### Python 3.11
 
-kivy
+#### kivy
 https://kivy.org/doc/stable/gettingstarted/installation.html
 
-pybluez
+#### pybluez
 pip install git+https://github.com/pybluez/pybluez.git#egg=pybluez
 
-PyESCPOS
+#### PyESCPOS
 https://pypi.org/project/PyESCPOS/
 pip install pyescpos[bluetooth]
